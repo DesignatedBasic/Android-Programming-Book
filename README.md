@@ -2,7 +2,7 @@
 ### By Bill Phillips, Chris Steward, and Kristin Marsicano
 
 ## Table of Contents
-1. [ ] Chapter 01 - Your First Android Application
+1. [x] Chapter 01 - Your First Android Application
 2. [ ] Chapter 02 - The Activity Lifecycle
 3. [ ] Chapter 03 - Android and Model-View-Controller
 4. [ ] Chapter 04 - Debugging Android Apps
