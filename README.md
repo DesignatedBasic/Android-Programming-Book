@@ -5,10 +5,10 @@
 1. [x] Chapter 01 - Your First Android Application
 2. [x] Chapter 02 - The Activity Lifecycle
 3. [x] Chapter 03 - Android and Model-View-Controller
-4. [ ] Chapter 04 - Debugging Android Apps
-5. [ ] Chapter 05 - Your Second Activity
-6. [ ] Chapter 06 - Android SDK Versions and Compatibilitiy
-7. [ ] Chapter 07 - UI Fragments and the Fragment Manager
+4. [x] Chapter 04 - Debugging Android Apps
+5. [x] Chapter 05 - Your Second Activity
+6. [x] Chapter 06 - Android SDK Versions and Compatibilitiy
+7. [x] Chapter 07 - UI Fragments and the Fragment Manager
 8. [ ] Chapter 08 - Displaying Lists with RecyclerView
 9. [ ] Chapter 09 - Creating User Interfaces with Layouts and Widgets
 10. [ ] Chapter 10 - Using Fragment Arguments
